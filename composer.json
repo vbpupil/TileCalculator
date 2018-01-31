@@ -1,0 +1,27 @@
+{
+  "name": "vbpupil/area",
+  "description": "Simple area object",
+  "license": "GPL 3.0",
+  "keywords": [
+    "area",
+    "calculator"
+  ],
+  "authors": [
+    {
+      "name": "Dean Haines",
+      "email": "vbpupil@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "vbpupil/measurement-converter": "^1.0"
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "vbpupil\\": "src"
+    }
+  }
+}
